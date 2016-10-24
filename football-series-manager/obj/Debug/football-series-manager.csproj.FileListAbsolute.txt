@@ -1,1 +1,2 @@
 C:\Users\Jimmy\Desktop\IT-Högskolan\Kurser\Programmering med .NET och C_sharp\Projekt\football-series-manager\football-series-manager\bin\Debug\football-series-manager.exe.config
+C:\Users\Alem Putes\Documents\GitHub\team-rocket\football-series-manager\bin\Debug\football-series-manager.exe.config
